@@ -1,0 +1,47 @@
+mismatch from 28868 to 28868
+T
+mismatch from 28584 to 28584
+T
+mismatch from 28234 to 28234
+T
+mismatch from 26437 to 26437
+T
+mismatch from 25885 to 25885
+T
+mismatch from 25544 to 25544
+T
+mismatch from 23645 to 23645
+T
+mismatch from 23384 to 23384
+G
+mismatch from 23044 to 23044
+T
+mismatch from 22993 to 22993
+A
+mismatch from 22794 to 22794
+T
+mismatch from 22196 to 22196
+G
+mismatch from 21791 to 21791
+C
+mismatch from 17756 to 17756
+T
+mismatch from 14398 to 14398
+T
+mismatch from 10322 to 10322
+G
+mismatch from 9273 to 9273
+G
+mismatch from 5229 to 5229
+T
+mismatch from 3036 to 3036
+T
+mismatch from 1058 to 1058
+T
+mismatch from 345 to 345
+T
+mismatch from 240 to 240
+T
+mismatch from 173 to 173
+T
+Match Percentage 0.99923

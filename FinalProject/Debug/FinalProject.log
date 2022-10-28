@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Drive other content\ali\Advanced programing\AdvancedAlgo\FinalProject\FinalProject\FinalProject\Source.cpp(46,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Drive other content\ali\Advanced programing\AdvancedAlgo\FinalProject\FinalProject\FinalProject\Source.cpp(134,46): warning C4018: '>': signed/unsigned mismatch
+D:\Drive other content\ali\Advanced programing\AdvancedAlgo\FinalProject\FinalProject\FinalProject\Source.cpp(185,14): warning C4018: '<': signed/unsigned mismatch
+  FinalProject.vcxproj -> D:\Drive other content\ali\Advanced programing\AdvancedAlgo\FinalProject\FinalProject\Debug\FinalProject.exe
